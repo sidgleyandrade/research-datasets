@@ -31,4 +31,4 @@ BibTex
 
 ## License
 
-AGORA 2017 dataset is published under the Creative Commons License <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/80x15.png" /></a><br/>
+AGILE 2017 dataset is published under the Creative Commons License <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/80x15.png" /></a><br/>
