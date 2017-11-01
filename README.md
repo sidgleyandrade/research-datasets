@@ -4,8 +4,10 @@ This repository contains a set of datasets generated from my research activities
 
 ## Datasets
 
-### 1. [AGILE 2017](https://github.com/sidgleyandrade/research-datasets/tree/master/AGILE2017)
+### 1. [Dataset to support: Mining Rainfall Spatio-Temporal Patterns in Twitter: A Temporal Approach](https://github.com/sidgleyandrade/research-datasets/tree/master/AGILE2017)
 
-The AGILE 2017 is a raw dataset of rainfall gauges and rainfall-related tweets that are openly available in CSV format. This dataset was published at the [20th AGILE Conference](https://agile-online.org/index.php/conference/conference-2017) through the paper Mining Rainfall Spatio-Temporal Patterns in Twitter: A Temporal Approach. [DOI:10.1007/978-3-319-56759-4_2](http://dx.doi.org/10.1007/978-3-319-56759-4_2)
+This dataset was published at the 20th AGILE Conference through the paper Mining Rainfall Spatio-Temporal Patterns in Twitter: A Temporal Approach, and it is openly available in CSV format. [DOI:10.1007/978-3-319-56759-4_2](http://dx.doi.org/10.1007/978-3-319-56759-4_2)
 
-### 2. IJGIS (coming soon)
+### 2. [Dataset to support: Geo-social media as a proxy for hydrometeorological data for streamflow estimation and to improve flood monitoring](https://github.com/agora-research-group/datasets/tree/master/C&G017)
+
+This dataset was published at the Computers & Geosciences through the paper Geo-social media as a proxy for hydrometeorological data for streamflow estimation and to improve flood monitoring, and it is openly available in CSV format. [DOI:10.1016/j.cageo.2017.10.010](https://doi.org/10.1016/j.cageo.2017.10.010)
